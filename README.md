@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=FF4FA3&center=true&vCenter=true&width=700&height=72&lines=JUDEA+TABLATE+%E2%9C%A6;backend+%26+software+engineering;building+things+with+personality" alt="Animated introduction: Judea Tablate" />
+  <img src="./pink-silver-header.gif" width="100%" alt="Animated black, neon pink, and silver futuristic banner: Judea Tablate — Software / Backend / Applied AI" />
   <br>
   <strong>BACKEND ENGINEERING · SOFTWARE ENGINEERING · APPLIED AI</strong>
   <br>
