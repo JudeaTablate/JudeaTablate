@@ -12,17 +12,18 @@
   <a href="mailto:judeaannctablate@gmail.com">✉ Email</a>
 </p>
 ---
-✦ About me
-I'm a Computer Science student specializing in Software Engineering at FEU Institute of Technology, currently working as a Backend Engineer Intern at FlyRank AI.
-I enjoy building practical software — APIs, automations, interactive interfaces, and tools that make everyday tasks simpler. I'm especially interested in backend systems, databases, cloud workflows, security, and applied AI.
-> *Curious by default. Organized by necessity. Always tempted to add one more tiny detail to the UI.* 🎀
+✦ currently in my orbit
+Backend engineering intern @ FlyRank AI  
+Building my software engineering skills through APIs, data, and practical backend work.
+What I like solving  
+Turning repetitive tasks into automations, messy requirements into maintainable systems, and ideas into software people can actually use.
+Outside the terminal  
+I've taken on student leadership alongside my studies, which taught me to communicate clearly, coordinate people, and stay steady under pressure.
 <details>
-<summary><strong>♡ A few things about me</strong></summary>
-🎓 Software Engineering student at FEU Tech
-💻 Growing through hands-on backend engineering work
-🧠 Interested in APIs, data, automation, security, and applied AI
-🎀 I love a balance of clean engineering and personality-filled design
-🤝 Student leadership taught me collaboration, communication, and follow-through
+<summary><strong>tiny personal lore ♡</strong></summary>
+🎀 I care about the details: good UX, clean structure, and documentation that makes sense.
+🧠 Current interests: backend systems, databases, security, cloud workflows, and applied AI.
+✦ Personal motto: make it useful, make it clear, then give it a little personality.
 </details>
 ⋆ Selected projects
 Project	What it does	Built with
