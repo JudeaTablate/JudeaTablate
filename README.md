@@ -26,13 +26,24 @@ I've taken on student leadership alongside my studies, which taught me to commun
 ✦ Personal motto: make it useful, make it clear, then give it a little personality.
 </details>
 ⋆ Selected projects
-Project	What it does	Built with
-Second Sense	Behavioral-authentication and account-takeover detection concept using typing and mouse dynamics.	`FastAPI` · `PostgreSQL` · `Redis`
-FlyRank Task API	Task REST API with CRUD endpoints, validation, persistent storage, and API documentation.	`Python` · `FastAPI` · `SQLite`
-Sentinel Uptime Monitor	Monitors service availability and surfaces issues that need attention.	Monitoring · Automation
-Automated Cloud Backup	Automates file synchronization to Google Drive with Python and GitHub Actions.	`Python` · GitHub Actions
-SplitBill	Real-time shared bill calculator with automatic tax and tip splitting.	`Node.js` · `Express` · WebSockets
-Wine About It	Interactive wine-learning experience with a 3D glass and AI-assisted discovery.	`React` · `Vite` · `GSAP`
+Second Sense  
+Behavioral-authentication and account-takeover detection concept using typing and mouse dynamics.  
+`FastAPI` · `PostgreSQL` · `Redis`
+FlyRank Task API  
+Task REST API with CRUD endpoints, validation, persistent storage, and API documentation.  
+`Python` · `FastAPI` · `SQLite`
+Sentinel Uptime Monitor  
+Monitors service availability and surfaces issues that need attention.  
+Monitoring · Automation
+Automated Cloud Backup  
+Automates file synchronization to Google Drive with Python and GitHub Actions.  
+`Python` · GitHub Actions
+SplitBill  
+Real-time shared bill calculator with automatic tax and tip splitting.  
+`Node.js` · `Express` · WebSockets
+Wine About It  
+Interactive wine-learning experience with a 3D glass and AI-assisted discovery.  
+`React` · `Vite` · `GSAP`
 <p align="center">
   <a href="https://judeatablate.vercel.app/"><img src="https://img.shields.io/badge/OPEN_PORTFOLIO-FF4FA3?style=for-the-badge&logo=vercel&logoColor=white" alt="Open portfolio"></a>
   <a href="https://github.com/JudeaTablate?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_PROJECTS-171217?style=for-the-badge&logo=github&logoColor=FF8CC6" alt="Browse projects"></a>
@@ -62,9 +73,12 @@ Tools
   <img src="https://img.shields.io/badge/Vercel-171217?style=flat-square&logo=vercel&logoColor=FF4FA3" alt="Vercel">
 </p>
 ♡ Experience & leadership
-Backend Engineer Intern — FlyRank AI · Aug 2026–Present
-Executive Secretary — Student Coordinating Council, FEU Tech · Aug 2024–Jul 2025
-Associate Director for Logistics — Association for Computing Machinery · Aug 2024–Jul 2025
+Backend Engineer Intern — FlyRank AI  
+Aug 2026 – Present
+Executive Secretary — Student Coordinating Council, FEU Tech  
+Aug 2024 – Jul 2025
+Associate Director for Logistics — Association for Computing Machinery  
+Aug 2024 – Jul 2025
 <details>
 <summary><strong>📚 Certifications & learning</strong></summary>
 AI Agents & Python Machine Learning — TestDome
