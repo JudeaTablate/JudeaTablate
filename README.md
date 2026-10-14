@@ -10,14 +10,20 @@
   <a href="https://www.linkedin.com/in/judea-ann-tablate-65a8901b7/">↗ LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:judeaannctablate@gmail.com">✉ Email</a>
 </div>
+
 <hr>
+
 <h2>✦ Currently in my orbit</h2>
+
 <p><strong>Backend engineering intern @ FlyRank AI</strong><br>
 Building my software engineering skills through APIs, data, and practical backend work.</p>
+
 <p><strong>What I like solving</strong><br>
 Turning repetitive tasks into automations, messy requirements into maintainable systems, and ideas into software people can actually use.</p>
+
 <p><strong>Outside the terminal</strong><br>
 I've taken on student leadership alongside my studies, which taught me to communicate clearly, coordinate people, and stay steady under pressure.</p>
+
 <details>
   <summary><strong>♡ Tiny personal lore</strong></summary>
   <ul>
@@ -26,8 +32,11 @@ I've taken on student leadership alongside my studies, which taught me to commun
     <li>Personal motto: make it useful, make it clear, then give it a little personality.</li>
   </ul>
 </details>
+
 <hr>
+
 <h2>⋆ Selected projects</h2>
+
 <ul>
   <li>
     <strong><a href="https://github.com/JudeaTablate/Second-Sense">Second Sense</a></strong><br>
@@ -65,13 +74,17 @@ I've taken on student leadership alongside my studies, which taught me to commun
     <sub>React · Vite · GSAP</sub>
   </li>
 </ul>
+
 <div align="center">
   <a href="https://judeatablate.vercel.app/"><img src="https://img.shields.io/badge/OPEN_PORTFOLIO-FF4FA3?style=for-the-badge&logo=vercel&logoColor=white" alt="Open portfolio"></a>
   &nbsp;
   <a href="https://github.com/JudeaTablate?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_PROJECTS-171217?style=for-the-badge&logo=github&logoColor=FF8CC6" alt="Browse projects"></a>
 </div>
+
 <hr>
+
 <h2>✿ Tech stack</h2>
+
 <p><strong>Languages &amp; web</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Python-171217?style=flat-square&amp;logo=python&amp;logoColor=FF4FA3" alt="Python">
@@ -80,6 +93,7 @@ I've taken on student leadership alongside my studies, which taught me to commun
   <img src="https://img.shields.io/badge/HTML5-171217?style=flat-square&amp;logo=html5&amp;logoColor=FF4FA3" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-171217?style=flat-square&amp;logo=css3&amp;logoColor=FF4FA3" alt="CSS3">
 </p>
+
 <p><strong>Backend &amp; data</strong></p>
 <p>
   <img src="https://img.shields.io/badge/FastAPI-171217?style=flat-square&amp;logo=fastapi&amp;logoColor=FF4FA3" alt="FastAPI">
@@ -88,6 +102,7 @@ I've taken on student leadership alongside my studies, which taught me to commun
   <img src="https://img.shields.io/badge/SQLite-171217?style=flat-square&amp;logo=sqlite&amp;logoColor=FF4FA3" alt="SQLite">
   <img src="https://img.shields.io/badge/Redis-171217?style=flat-square&amp;logo=redis&amp;logoColor=FF4FA3" alt="Redis">
 </p>
+
 <p><strong>Tools</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Git-171217?style=flat-square&amp;logo=git&amp;logoColor=FF4FA3" alt="Git">
@@ -95,13 +110,17 @@ I've taken on student leadership alongside my studies, which taught me to commun
   <img src="https://img.shields.io/badge/Docker-171217?style=flat-square&amp;logo=docker&amp;logoColor=FF4FA3" alt="Docker">
   <img src="https://img.shields.io/badge/Vercel-171217?style=flat-square&amp;logo=vercel&amp;logoColor=FF4FA3" alt="Vercel">
 </p>
+
 <hr>
+
 <h2>♡ Experience &amp; leadership</h2>
+
 <ul>
   <li><strong>Backend Engineer Intern</strong> — FlyRank AI<br><em>Aug 2026 – Present</em></li>
   <li><strong>Executive Secretary</strong> — Student Coordinating Council, FEU Tech<br><em>Aug 2024 – Jul 2025</em></li>
   <li><strong>Associate Director for Logistics</strong> — Association for Computing Machinery<br><em>Aug 2024 – Jul 2025</em></li>
 </ul>
+
 <details>
   <summary><strong>📚 Certifications &amp; learning</strong></summary>
   <ul>
@@ -113,17 +132,22 @@ I've taken on student leadership alongside my studies, which taught me to commun
     <li>Foundation Course on IP and New Product Development — IPOPHL</li>
   </ul>
 </details>
+
 <hr>
+
 <h2>⌁ GitHub stats</h2>
+
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=JudeaTablate&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D0D0D&amp;title_color=FF4FA3&amp;text_color=F5EAF0&amp;icon_color=FF8CC6" alt="GitHub statistics">
   &nbsp;
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JudeaTablate&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D0D0D&amp;title_color=FF4FA3&amp;text_color=F5EAF0" alt="Most used languages">
 </div>
+
 <hr>
+
 <div align="center">
   <strong>Thanks for stopping by ♡</strong><br>
-  <sub>made with code, caffeine &amp; a suspicious amount of pink</sub><br><br>
+  <sub>crafted with intention · designed in black, pink &amp; silver</sub><br><br>
   <a href="https://judeatablate.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/judea-ann-tablate-65a8901b7/">LinkedIn</a> ·
   <a href="mailto:judeaannctablate@gmail.com">Email</a>
