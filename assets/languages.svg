@@ -1,21 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="210" viewBox="0 0 495 210" role="img" aria-label="LANG.MATRIX – syncing">
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="210" viewBox="0 0 495 210" role="img" aria-label="Top languages for JudeaTablate">
   <defs>
-    <linearGradient id="ph-silver" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="lg-silver" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#FFFFFF"/><stop offset=".45" stop-color="#E6E6EE"/>
       <stop offset=".7" stop-color="#A9A7B6"/><stop offset="1" stop-color="#F3F3F8"/>
     </linearGradient>
-    <linearGradient id="ph-pink" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="lg-pink" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#FF4FA3"/><stop offset="1" stop-color="#FF8CC6"/>
     </linearGradient>
-    <linearGradient id="ph-edge" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="lg-edge" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#FF4FA3" stop-opacity=".9"/>
       <stop offset=".5" stop-color="#9C9AA8" stop-opacity=".35"/>
       <stop offset="1" stop-color="#FF8CC6" stop-opacity=".9"/>
     </linearGradient>
-    <pattern id="ph-grid" width="18" height="18" patternUnits="userSpaceOnUse">
+    <pattern id="lg-grid" width="18" height="18" patternUnits="userSpaceOnUse">
       <path d="M18 0H0V18" fill="none" stroke="#2A2430" stroke-width=".6" opacity=".55"/>
     </pattern>
-    <radialGradient id="ph-glow" cx=".85" cy="0" r=".9">
+    <radialGradient id="lg-glow" cx=".85" cy="0" r=".9">
       <stop offset="0" stop-color="#FF4FA3" stop-opacity=".22"/>
       <stop offset="1" stop-color="#FF4FA3" stop-opacity="0"/>
     </radialGradient>
@@ -36,20 +36,63 @@
     @keyframes draw { to { stroke-dashoffset: 0; } }
   </style>
   <rect x="1" y="1" width="493" height="208" rx="10" fill="#0A090D"/>
-  <rect x="1" y="1" width="493" height="208" rx="10" fill="url(#ph-grid)"/>
-  <rect x="1" y="1" width="493" height="208" rx="10" fill="url(#ph-glow)"/>
-  <rect x="1" y="1" width="493" height="208" rx="10" fill="none" stroke="url(#ph-edge)" stroke-width="1.2"/>
+  <rect x="1" y="1" width="493" height="208" rx="10" fill="url(#lg-grid)"/>
+  <rect x="1" y="1" width="493" height="208" rx="10" fill="url(#lg-glow)"/>
+  <rect x="1" y="1" width="493" height="208" rx="10" fill="none" stroke="url(#lg-edge)" stroke-width="1.2"/>
   <g stroke="#FF4FA3" stroke-width="2" fill="none">
     <path d="M6 20V6H20"/><path d="M475 6H489V20"/>
     <path d="M6 190V204H20"/><path d="M475 204H489V190"/>
   </g>
-  <g clip-path="url(#ph-clip)">
+  <g clip-path="url(#lg-clip)">
     <rect class="scan" x="0" y="0" width="495" height="2" fill="#FF4FA3" opacity=".18"/>
   </g>
-  <clipPath id="ph-clip"><rect x="1" y="1" width="493" height="208" rx="10"/></clipPath>
+  <clipPath id="lg-clip"><rect x="1" y="1" width="493" height="208" rx="10"/></clipPath>
   <circle cx="26" cy="27" r="3.5" fill="#FF4FA3" class="blink"/>
-  <text x="38" y="31" class="t" fill="url(#ph-silver)">LANG.MATRIX</text>
-  <text x="473" y="31" class="sm" text-anchor="end">SYNCING</text>
-  <line x1="22" y1="44" x2="473" y2="44" stroke="url(#ph-pink)" stroke-width="1" opacity=".55"/>
-  <text x="247.5" y="119.0" text-anchor="middle" class="lb">ESTABLISHING UPLINK<tspan class="blink" fill="#FF4FA3"> _</tspan></text>
+  <text x="38" y="31" class="t" fill="url(#lg-silver)">LANG.MATRIX</text>
+  <text x="473" y="31" class="sm" text-anchor="end">BY BYTES · PUBLIC REPOS</text>
+  <line x1="22" y1="44" x2="473" y2="44" stroke="url(#lg-pink)" stroke-width="1" opacity=".55"/>
+  <rect x="26" y="62" width="443" height="10" rx="5" fill="#1E1A24"/>
+  <g style="transform-origin:26px 67px; animation: grow 1s ease-out forwards; transform: scaleX(0)"><clipPath id="lg-bar"><rect x="26" y="62" width="443" height="10" rx="5"/></clipPath><g clip-path="url(#lg-bar)"><rect x="26.0" y="62" width="234.0" height="10" fill="#FF4FA3"/><rect x="259.5" y="62" width="83.3" height="10" fill="#FF8CC6"/><rect x="342.3" y="62" width="70.1" height="10" fill="#FFC2E0"/><rect x="411.9" y="62" width="44.9" height="10" fill="#E6E6EE"/><rect x="456.3" y="62" width="12.6" height="10" fill="#B8B8C6"/><rect x="468.5" y="62" width="1.0" height="10" fill="#7E7C8C"/></g></g>
+  <g class="fade" style="animation-delay:0.30s">
+    <rect x="26" y="94" width="10" height="10" rx="2" fill="#FF4FA3"/>
+    <text x="44" y="103" class="v">JavaScript</text>
+    <text x="238" y="103" class="lb" text-anchor="end">52.7%</text>
+    <rect x="44" y="110" width="194" height="2" fill="#1E1A24"/>
+    <rect x="44" y="110" width="102.3" height="2" fill="#FF4FA3" opacity=".8"/>
+  </g>
+  <g class="fade" style="animation-delay:0.40s">
+    <rect x="256" y="94" width="10" height="10" rx="2" fill="#FF8CC6"/>
+    <text x="274" y="103" class="v">CSS</text>
+    <text x="468" y="103" class="lb" text-anchor="end">18.7%</text>
+    <rect x="274" y="110" width="194" height="2" fill="#1E1A24"/>
+    <rect x="274" y="110" width="36.3" height="2" fill="#FF8CC6" opacity=".8"/>
+  </g>
+  <g class="fade" style="animation-delay:0.50s">
+    <rect x="26" y="128" width="10" height="10" rx="2" fill="#FFC2E0"/>
+    <text x="44" y="137" class="v">Python</text>
+    <text x="238" y="137" class="lb" text-anchor="end">15.7%</text>
+    <rect x="44" y="144" width="194" height="2" fill="#1E1A24"/>
+    <rect x="44" y="144" width="30.5" height="2" fill="#FFC2E0" opacity=".8"/>
+  </g>
+  <g class="fade" style="animation-delay:0.60s">
+    <rect x="256" y="128" width="10" height="10" rx="2" fill="#E6E6EE"/>
+    <text x="274" y="137" class="v">HTML</text>
+    <text x="468" y="137" class="lb" text-anchor="end">10.0%</text>
+    <rect x="274" y="144" width="194" height="2" fill="#1E1A24"/>
+    <rect x="274" y="144" width="19.5" height="2" fill="#E6E6EE" opacity=".8"/>
+  </g>
+  <g class="fade" style="animation-delay:0.70s">
+    <rect x="26" y="162" width="10" height="10" rx="2" fill="#B8B8C6"/>
+    <text x="44" y="171" class="v">Kotlin</text>
+    <text x="238" y="171" class="lb" text-anchor="end">2.7%</text>
+    <rect x="44" y="178" width="194" height="2" fill="#1E1A24"/>
+    <rect x="44" y="178" width="5.3" height="2" fill="#B8B8C6" opacity=".8"/>
+  </g>
+  <g class="fade" style="animation-delay:0.80s">
+    <rect x="256" y="162" width="10" height="10" rx="2" fill="#7E7C8C"/>
+    <text x="274" y="171" class="v">Dockerfile</text>
+    <text x="468" y="171" class="lb" text-anchor="end">0.1%</text>
+    <rect x="274" y="178" width="194" height="2" fill="#1E1A24"/>
+    <rect x="274" y="178" width="0.2" height="2" fill="#7E7C8C" opacity=".8"/>
+  </g>
 </svg>

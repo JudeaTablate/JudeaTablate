@@ -1,21 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-label="ACTIVITY.LOG – syncing">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-label="Recent GitHub activity for JudeaTablate">
   <defs>
-    <linearGradient id="ph-silver" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="ac-silver" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#FFFFFF"/><stop offset=".45" stop-color="#E6E6EE"/>
       <stop offset=".7" stop-color="#A9A7B6"/><stop offset="1" stop-color="#F3F3F8"/>
     </linearGradient>
-    <linearGradient id="ph-pink" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="ac-pink" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#FF4FA3"/><stop offset="1" stop-color="#FF8CC6"/>
     </linearGradient>
-    <linearGradient id="ph-edge" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="ac-edge" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#FF4FA3" stop-opacity=".9"/>
       <stop offset=".5" stop-color="#9C9AA8" stop-opacity=".35"/>
       <stop offset="1" stop-color="#FF8CC6" stop-opacity=".9"/>
     </linearGradient>
-    <pattern id="ph-grid" width="18" height="18" patternUnits="userSpaceOnUse">
+    <pattern id="ac-grid" width="18" height="18" patternUnits="userSpaceOnUse">
       <path d="M18 0H0V18" fill="none" stroke="#2A2430" stroke-width=".6" opacity=".55"/>
     </pattern>
-    <radialGradient id="ph-glow" cx=".85" cy="0" r=".9">
+    <radialGradient id="ac-glow" cx=".85" cy="0" r=".9">
       <stop offset="0" stop-color="#FF4FA3" stop-opacity=".22"/>
       <stop offset="1" stop-color="#FF4FA3" stop-opacity="0"/>
     </radialGradient>
@@ -36,20 +36,57 @@
     @keyframes draw { to { stroke-dashoffset: 0; } }
   </style>
   <rect x="1" y="1" width="998" height="228" rx="10" fill="#0A090D"/>
-  <rect x="1" y="1" width="998" height="228" rx="10" fill="url(#ph-grid)"/>
-  <rect x="1" y="1" width="998" height="228" rx="10" fill="url(#ph-glow)"/>
-  <rect x="1" y="1" width="998" height="228" rx="10" fill="none" stroke="url(#ph-edge)" stroke-width="1.2"/>
+  <rect x="1" y="1" width="998" height="228" rx="10" fill="url(#ac-grid)"/>
+  <rect x="1" y="1" width="998" height="228" rx="10" fill="url(#ac-glow)"/>
+  <rect x="1" y="1" width="998" height="228" rx="10" fill="none" stroke="url(#ac-edge)" stroke-width="1.2"/>
   <g stroke="#FF4FA3" stroke-width="2" fill="none">
     <path d="M6 20V6H20"/><path d="M980 6H994V20"/>
     <path d="M6 210V224H20"/><path d="M980 224H994V210"/>
   </g>
-  <g clip-path="url(#ph-clip)">
+  <g clip-path="url(#ac-clip)">
     <rect class="scan" x="0" y="0" width="1000" height="2" fill="#FF4FA3" opacity=".18"/>
   </g>
-  <clipPath id="ph-clip"><rect x="1" y="1" width="998" height="228" rx="10"/></clipPath>
+  <clipPath id="ac-clip"><rect x="1" y="1" width="998" height="228" rx="10"/></clipPath>
   <circle cx="26" cy="27" r="3.5" fill="#FF4FA3" class="blink"/>
-  <text x="38" y="31" class="t" fill="url(#ph-silver)">ACTIVITY.LOG</text>
-  <text x="978" y="31" class="sm" text-anchor="end">SYNCING</text>
-  <line x1="22" y1="44" x2="978" y2="44" stroke="url(#ph-pink)" stroke-width="1" opacity=".55"/>
-  <text x="500.0" y="129.0" text-anchor="middle" class="lb">ESTABLISHING UPLINK<tspan class="blink" fill="#FF4FA3"> _</tspan></text>
+  <text x="38" y="31" class="t" fill="url(#ac-silver)">ACTIVITY.LOG // LAST 30 DAYS</text>
+  <text x="978" y="31" class="sm" text-anchor="end">CONTRIBUTION SIGNAL</text>
+  <line x1="22" y1="44" x2="978" y2="44" stroke="url(#ac-pink)" stroke-width="1" opacity=".55"/>
+  <line x1="40" y1="64.0" x2="690" y2="64.0" stroke="#2A2430" stroke-dasharray="2 5"/>
+  <line x1="40" y1="108.0" x2="690" y2="108.0" stroke="#2A2430" stroke-dasharray="2 5"/>
+  <line x1="40" y1="152.0" x2="690" y2="152.0" stroke="#2A2430" stroke-dasharray="2 5"/>
+  <line x1="40" y1="196.0" x2="690" y2="196.0" stroke="#2A2430" stroke-dasharray="2 5"/>
+  <linearGradient id="ac-fill" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FF4FA3" stop-opacity=".35"/><stop offset="1" stop-color="#FF4FA3" stop-opacity="0"/>
+  </linearGradient>
+  <polygon points="40,196 40.0,163.0 62.4,196.0 84.8,196.0 107.2,196.0 129.7,196.0 152.1,196.0 174.5,196.0 196.9,196.0 219.3,196.0 241.7,196.0 264.1,189.4 286.6,196.0 309.0,196.0 331.4,196.0 353.8,196.0 376.2,196.0 398.6,196.0 421.0,196.0 443.4,196.0 465.9,196.0 488.3,196.0 510.7,196.0 533.1,196.0 555.5,196.0 577.9,176.2 600.3,64.0 622.8,189.4 645.2,196.0 667.6,156.4 690.0,196.0 690,196" fill="url(#ac-fill)" class="fade" style="animation-delay:.8s"/>
+  <polyline points="40.0,163.0 62.4,196.0 84.8,196.0 107.2,196.0 129.7,196.0 152.1,196.0 174.5,196.0 196.9,196.0 219.3,196.0 241.7,196.0 264.1,189.4 286.6,196.0 309.0,196.0 331.4,196.0 353.8,196.0 376.2,196.0 398.6,196.0 421.0,196.0 443.4,196.0 465.9,196.0 488.3,196.0 510.7,196.0 533.1,196.0 555.5,196.0 577.9,176.2 600.3,64.0 622.8,189.4 645.2,196.0 667.6,156.4 690.0,196.0" fill="none" stroke="url(#ac-pink)" stroke-width="2.4" stroke-linejoin="round"
+    stroke-dasharray="931" stroke-dashoffset="931" style="animation: draw 1.8s ease-out forwards"/>
+  <circle cx="40.0" cy="163.0" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.20s"/>
+  <circle cx="264.1" cy="189.4" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.40s"/>
+  <circle cx="577.9" cy="176.2" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.68s"/>
+  <circle cx="600.3" cy="64.0" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.70s"/>
+  <circle cx="622.8" cy="189.4" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.72s"/>
+  <circle cx="667.6" cy="156.4" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.76s"/>
+  <text x="40" y="214" class="sm">OCT 20</text>
+  <text x="690" y="214" class="sm" text-anchor="end">NOV 18</text>
+  <text x="32" y="68" class="sm" text-anchor="end">20</text>
+  <text x="32" y="196" class="sm" text-anchor="end">0</text>
+  <g class="fade" style="animation-delay:0.40s">
+    <rect x="730" y="62" width="244" height="44" rx="6" fill="#121017" stroke="#2A2430"/>
+    <rect x="730" y="62" width="3" height="44" rx="1.5" fill="url(#ac-pink)"/>
+    <text x="746" y="89" class="lb">CURRENT STREAK</text>
+    <text x="958" y="92" text-anchor="end" style="font-size:22px;font-weight:800" fill="url(#ac-silver)">1<tspan class="sm" dx="6">DAYS</tspan></text>
+  </g>
+  <g class="fade" style="animation-delay:0.55s">
+    <rect x="730" y="114" width="244" height="44" rx="6" fill="#121017" stroke="#2A2430"/>
+    <rect x="730" y="114" width="3" height="44" rx="1.5" fill="url(#ac-pink)"/>
+    <text x="746" y="141" class="lb">LONGEST STREAK</text>
+    <text x="958" y="144" text-anchor="end" style="font-size:22px;font-weight:800" fill="url(#ac-silver)">5<tspan class="sm" dx="6">DAYS</tspan></text>
+  </g>
+  <g class="fade" style="animation-delay:0.70s">
+    <rect x="730" y="166" width="244" height="44" rx="6" fill="#121017" stroke="#2A2430"/>
+    <rect x="730" y="166" width="3" height="44" rx="1.5" fill="url(#ac-pink)"/>
+    <text x="746" y="193" class="lb">30-DAY TOTAL</text>
+    <text x="958" y="196" text-anchor="end" style="font-size:22px;font-weight:800" fill="url(#ac-silver)">36<tspan class="sm" dx="6">CONTRIBS</tspan></text>
+  </g>
 </svg>
