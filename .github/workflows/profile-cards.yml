@@ -1,0 +1,46 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: "17 18 * * *"   # every day at 2:17 AM Manila time
+  workflow_dispatch:         # lets you run it from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate_cards.py"
+      - ".github/workflows/profile-cards.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate stat cards
+        env:
+          # Optional: add a classic PAT (scope: read:user) as the repo secret STATS_TOKEN
+          # to include private contributions. Without it, public data is used.
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+          EXCLUDE_LANGS: ""        # e.g. "Jupyter Notebook,CSS"
+          EXCLUDE_REPOS: ""        # e.g. "JudeaTablate"
+        run: python scripts/generate_cards.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/languages.svg assets/activity.svg
+          git diff --cached --quiet || git commit -m "chore: refresh profile cards"
+          git push
