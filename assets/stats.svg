@@ -55,13 +55,13 @@
     <rect x="26" y="64" width="4" height="4" fill="#FF4FA3" transform="rotate(45 28 66)"/>
     <text x="40" y="70" class="lb">CONTRIBUTIONS · 1Y</text>
     <line x1="190" y1="66" x2="268" y2="66" stroke="#2A2430" stroke-dasharray="2 4"/>
-    <text x="300" y="70" class="v" text-anchor="end">146</text>
+    <text x="300" y="70" class="v" text-anchor="end">147</text>
   </g>
   <g class="fade" style="animation-delay:0.25s">
     <rect x="26" y="86" width="4" height="4" fill="#FF4FA3" transform="rotate(45 28 88)"/>
     <text x="40" y="92" class="lb">COMMITS · 2026</text>
     <line x1="190" y1="88" x2="268" y2="88" stroke="#2A2430" stroke-dasharray="2 4"/>
-    <text x="300" y="92" class="v" text-anchor="end">129</text>
+    <text x="300" y="92" class="v" text-anchor="end">130</text>
   </g>
   <g class="fade" style="animation-delay:0.35s">
     <rect x="26" y="108" width="4" height="4" fill="#FF4FA3" transform="rotate(45 28 110)"/>
@@ -92,7 +92,7 @@
     <circle cx="400" cy="122" r="50" fill="none" stroke="#1E1A24" stroke-width="8"/>
     <circle cx="400" cy="122" r="50" fill="none" stroke="url(#st-pink)" stroke-width="8"
       stroke-linecap="round" transform="rotate(-90 400 122)"
-      stroke-dasharray="25.6 314.2" stroke-dashoffset="25.6"
+      stroke-dasharray="26.4 314.2" stroke-dashoffset="26.4"
       style="animation: draw 1.4s ease-out .4s forwards"/>
     <text x="400" y="124" text-anchor="middle" style="font-size:24px;font-weight:800" fill="url(#st-silver)">8%</text>
     <text x="400" y="141" text-anchor="middle" class="sm">DAYS ACTIVE</text>
