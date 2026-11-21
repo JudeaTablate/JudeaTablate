@@ -92,7 +92,7 @@
     <circle cx="400" cy="122" r="50" fill="none" stroke="#1E1A24" stroke-width="8"/>
     <circle cx="400" cy="122" r="50" fill="none" stroke="url(#st-pink)" stroke-width="8"
       stroke-linecap="round" transform="rotate(-90 400 122)"
-      stroke-dasharray="27.2 314.2" stroke-dashoffset="27.2"
+      stroke-dasharray="27.1 314.2" stroke-dashoffset="27.1"
       style="animation: draw 1.4s ease-out .4s forwards"/>
     <text x="400" y="124" text-anchor="middle" style="font-size:24px;font-weight:800" fill="url(#st-silver)">9%</text>
     <text x="400" y="141" text-anchor="middle" class="sm">DAYS ACTIVE</text>
