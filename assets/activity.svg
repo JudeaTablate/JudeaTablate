@@ -58,18 +58,19 @@
   <linearGradient id="ac-fill" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0" stop-color="#FF4FA3" stop-opacity=".35"/><stop offset="1" stop-color="#FF4FA3" stop-opacity="0"/>
   </linearGradient>
-  <polygon points="40,196 40.0,196.0 62.4,196.0 84.8,196.0 107.2,196.0 129.7,196.0 152.1,196.0 174.5,196.0 196.9,189.4 219.3,196.0 241.7,196.0 264.1,196.0 286.6,196.0 309.0,196.0 331.4,196.0 353.8,196.0 376.2,196.0 398.6,196.0 421.0,196.0 443.4,196.0 465.9,196.0 488.3,196.0 510.7,176.2 533.1,64.0 555.5,189.4 577.9,196.0 600.3,156.4 622.8,189.4 645.2,196.0 667.6,169.6 690.0,196.0 690,196" fill="url(#ac-fill)" class="fade" style="animation-delay:.8s"/>
-  <polyline points="40.0,196.0 62.4,196.0 84.8,196.0 107.2,196.0 129.7,196.0 152.1,196.0 174.5,196.0 196.9,189.4 219.3,196.0 241.7,196.0 264.1,196.0 286.6,196.0 309.0,196.0 331.4,196.0 353.8,196.0 376.2,196.0 398.6,196.0 421.0,196.0 443.4,196.0 465.9,196.0 488.3,196.0 510.7,176.2 533.1,64.0 555.5,189.4 577.9,196.0 600.3,156.4 622.8,189.4 645.2,196.0 667.6,169.6 690.0,196.0" fill="none" stroke="url(#ac-pink)" stroke-width="2.4" stroke-linejoin="round"
-    stroke-dasharray="933" stroke-dashoffset="933" style="animation: draw 1.8s ease-out forwards"/>
-  <circle cx="196.9" cy="189.4" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.34s"/>
-  <circle cx="510.7" cy="176.2" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.62s"/>
-  <circle cx="533.1" cy="64.0" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.64s"/>
-  <circle cx="555.5" cy="189.4" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.66s"/>
-  <circle cx="600.3" cy="156.4" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.70s"/>
-  <circle cx="622.8" cy="189.4" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.72s"/>
-  <circle cx="667.6" cy="169.6" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.76s"/>
-  <text x="40" y="214" class="sm">OCT 23</text>
-  <text x="690" y="214" class="sm" text-anchor="end">NOV 21</text>
+  <polygon points="40,196 40.0,196.0 62.4,196.0 84.8,196.0 107.2,196.0 129.7,196.0 152.1,196.0 174.5,189.4 196.9,196.0 219.3,196.0 241.7,196.0 264.1,196.0 286.6,196.0 309.0,196.0 331.4,196.0 353.8,196.0 376.2,196.0 398.6,196.0 421.0,196.0 443.4,196.0 465.9,196.0 488.3,176.2 510.7,64.0 533.1,189.4 555.5,196.0 577.9,156.4 600.3,189.4 622.8,196.0 645.2,169.6 667.6,196.0 690.0,189.4 690,196" fill="url(#ac-fill)" class="fade" style="animation-delay:.8s"/>
+  <polyline points="40.0,196.0 62.4,196.0 84.8,196.0 107.2,196.0 129.7,196.0 152.1,196.0 174.5,189.4 196.9,196.0 219.3,196.0 241.7,196.0 264.1,196.0 286.6,196.0 309.0,196.0 331.4,196.0 353.8,196.0 376.2,196.0 398.6,196.0 421.0,196.0 443.4,196.0 465.9,196.0 488.3,176.2 510.7,64.0 533.1,189.4 555.5,196.0 577.9,156.4 600.3,189.4 622.8,196.0 645.2,169.6 667.6,196.0 690.0,189.4" fill="none" stroke="url(#ac-pink)" stroke-width="2.4" stroke-linejoin="round"
+    stroke-dasharray="934" stroke-dashoffset="934" style="animation: draw 1.8s ease-out forwards"/>
+  <circle cx="174.5" cy="189.4" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.32s"/>
+  <circle cx="488.3" cy="176.2" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.60s"/>
+  <circle cx="510.7" cy="64.0" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.62s"/>
+  <circle cx="533.1" cy="189.4" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.64s"/>
+  <circle cx="577.9" cy="156.4" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.68s"/>
+  <circle cx="600.3" cy="189.4" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.70s"/>
+  <circle cx="645.2" cy="169.6" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.74s"/>
+  <circle cx="690.0" cy="189.4" r="2.6" fill="#0A090D" stroke="#E6E6EE" stroke-width="1.4" class="fade" style="animation-delay:1.78s"/>
+  <text x="40" y="214" class="sm">OCT 24</text>
+  <text x="690" y="214" class="sm" text-anchor="end">NOV 22</text>
   <text x="32" y="68" class="sm" text-anchor="end">20</text>
   <text x="32" y="196" class="sm" text-anchor="end">0</text>
   <g class="fade" style="animation-delay:0.40s">
@@ -88,6 +89,6 @@
     <rect x="730" y="166" width="244" height="44" rx="6" fill="#121017" stroke="#2A2430"/>
     <rect x="730" y="166" width="3" height="44" rx="1.5" fill="url(#ac-pink)"/>
     <text x="746" y="193" class="lb">30-DAY TOTAL</text>
-    <text x="958" y="196" text-anchor="end" style="font-size:22px;font-weight:800" fill="url(#ac-silver)">36<tspan class="sm" dx="6">CONTRIBS</tspan></text>
+    <text x="958" y="196" text-anchor="end" style="font-size:22px;font-weight:800" fill="url(#ac-silver)">37<tspan class="sm" dx="6">CONTRIBS</tspan></text>
   </g>
 </svg>
